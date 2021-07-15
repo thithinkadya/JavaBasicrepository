@@ -14,7 +14,7 @@ public class areaofCircle {
 		int r =10;
 		double result = areaofCircle.areaCircle(r);
 		System.out.println(result);
-		int b=10,h=15;
+		int b=25,h=1;
 		double res = areaofCircle.areatriangle(b, h);
 		System.out.println(res);
 	}
